@@ -2,6 +2,13 @@
 
 In a world recovering from the shock of COVID-19, it has become increasingly important to practice social distancing. A deep understanding of the pandemic shows how one person's negligence can cause widespread harm which will be hard to negate. So, using Computer Vision and Deep Learning might help monitor the practice of social distancing. 
 
+The application detects people who are close by and not adhering to the distancing norms and marks them in RED bounding boxes, signifying risk. Others, are in GREEN.
+
+The Dashboard at the right, gives a visual representation of the data.
+The number next to the GREEN and RED icons are the number of SAFE and RISK people. Whereas, the BLACK is the total number of people in the frame. 
+
+The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame. 
+
 ### Here is a demo containing the application output: 
 
 ![Social Distance Dashboard output in Outdoor conditions](https://github.com/iamsashank09/social-distance-dashboard/blob/master/OutputVideos/output-outdoorlong.gif)
