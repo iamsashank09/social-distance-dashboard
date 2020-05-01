@@ -15,6 +15,9 @@ The Pie Chart at the top just plots the SAFE vs AT RISK persons in the frame.
 
 ![Social Distance Dashboard output in Indoor conditions](https://github.com/iamsashank09/social-distance-dashboard/blob/master/OutputVideos/output-indoor.gif)
 
+#### Full output on Youtube:
+Click to go to the Youtube Video
+[![Social Distance Dashboard](https://github.com/iamsashank09/social-distance-dashboard/blob/master/OutputVideos/output-outdoor.gif)](https://youtu.be/PUTKKx8GBYg)
 
 ### How to use the application:
 The entire application is encapsulated in the SocialDistanceDashboard.py file, which can be run using the command:
@@ -46,6 +49,8 @@ Input videos used for testing and development:
 Outdoor videos: [VIRAT Dataset](https://viratdata.org/)
 
 Indoor videos: [Learning Recognition Surveillance Group](https://www.tugraz.at/institutes/icg/research/team-bischof/learning-recognition-surveillance/)
+
+![MIT License Social Distance Dashboard](https://camo.githubusercontent.com/2e380136948ff516fd2a276030a07dbc207c9df8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f444156466f756e646174696f6e2f6361707461696e2d6e336d302e7376673f7374796c653d666c61742d737175617265)
 
 
 
