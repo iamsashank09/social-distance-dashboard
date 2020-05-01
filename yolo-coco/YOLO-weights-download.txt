@@ -1,0 +1,3 @@
+https://pjreddie.com/media/files/yolov3.weights
+
+Download the weights from this link and put in the yolo-coco folder for the code to run. 
